@@ -52,7 +52,7 @@
 
 2. **Установка зависимостей:**
    ```bash
-   pip install requests pyTelegramBotAPI matplotlib openpyxl
+   pip install -r requirements.txt
    ```
 
 3. **Настройка конфигурации:**
